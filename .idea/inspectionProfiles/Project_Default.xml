@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="data_category_ru" />
+            <item index="1" class="java.lang.String" itemvalue="data_category" />
+            <item index="2" class="java.lang.String" itemvalue="data_actor_name_ru" />
+            <item index="3" class="java.lang.String" itemvalue="data_actor_name" />
+            <item index="4" class="java.lang.String" itemvalue="data_director_name_ru" />
+            <item index="5" class="java.lang.String" itemvalue="data_director_name" />
+            <item index="6" class="java.lang.String" itemvalue="data_genre" />
+            <item index="7" class="java.lang.String" itemvalue="data_genre_ru" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="JSIgnoredPromiseFromCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  </profile>
+</component>

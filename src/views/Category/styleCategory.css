@@ -1,0 +1,16 @@
+.update-panel--modal {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.update-panel--modal li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.update-panel--modal li input {
+    width: 70%;
+}

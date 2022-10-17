@@ -1,0 +1,45 @@
+.filmId{
+    color: #000000;
+}
+.btn{
+    width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    color: #FFFFFF;
+    font-family: Roboto, sans-serif;
+}
+.stBtn {
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    color: #FFFFFF;
+    font-family: Roboto, sans-serif;
+}
+.loading{
+
+}
+.btn:focus, .stBtn:focus{
+    outline: none;
+}
+.hidden{
+    background-color: red;
+}
+.visible{
+    background-color: green;
+}
+.actionsDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.searchInput {
+    outline: none;
+    padding: 15px 25px;
+    border: none;
+    width: 400px;
+    border-radius: 8px;
+}
